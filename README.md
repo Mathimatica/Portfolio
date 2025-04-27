@@ -4,7 +4,7 @@
 
 # Thales
 
-![Hackathon](./gif/RVezyHackathon.gif)
+![Hackathon](./gif/thales.gif)
 
 # Camcloud
 
