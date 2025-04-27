@@ -1,6 +1,6 @@
 # Glitchsoft
 
-![Glitchsoft Logo](images/logo.png)
+![Glitchsoft Logo](images/Glitchsoft.png)
 
 # Portfolio
 Repository Used for Portfolio
