@@ -14,3 +14,11 @@
 
 ![Glitchsoft Logo](images/Glitchsoft.png)
 
+# Algonquin College
+
+![Diploma](images/AlgonquinDiploma.jpg)
+
+# Waterloo
+
+![Degree](images/WaterlooDegree.jpg)
+
