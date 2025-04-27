@@ -4,5 +4,5 @@
 
 # Camcloud
 
-[▶️ Watch Camera Mosaic Demo](video/CameraMosaic.MP4)
+![Camera Mosaic Demo](./gif/CameraMosaic_small.gif)
 
