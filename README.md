@@ -2,11 +2,15 @@
 
 ![Hackathon](./gif/RVezyHackathon.gif)
 
-# Glitchsoft
+# Thales
 
-![Glitchsoft Logo](images/Glitchsoft.png)
+![Hackathon](./gif/RVezyHackathon.gif)
 
 # Camcloud
 
 ![Camera Mosaic Demo](./gif/CameraMosaic_small.gif)
+
+# Glitchsoft
+
+![Glitchsoft Logo](images/Glitchsoft.png)
 
