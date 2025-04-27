@@ -16,9 +16,9 @@
 
 # Algonquin College
 
-![Diploma](images/AlgonquinDiploma.jpg)
+![Diploma](images/AlgonquinDiploma.JPG)
 
 # Waterloo
 
-![Degree](images/WaterlooDegree.jpg)
+![Degree](images/WaterlooDegree.JPG)
 
